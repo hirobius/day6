@@ -1,2 +1,2 @@
-# day6
+# doAlong
 06a DO ALONG 
